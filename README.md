@@ -8,7 +8,7 @@ This problem can be solved by these commands.
 ## Installation
 
 ```bash
-get -O kazam.deb https://bit.ly/kazam-deb
+wget -O kazam.deb https://bit.ly/kazam-deb
 ```
 ```bash
 sudo dpkg -i kazam-deb
