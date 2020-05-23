@@ -31,6 +31,4 @@ sudo apt-get purge kazam
 ```bash
 sudo apt-get purge --auto-remove kazam 
 ```
-```bash
-
-```
+# Thank You <3
