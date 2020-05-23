@@ -11,7 +11,7 @@ This problem can be solved by these commands.
 wget -O kazam.deb https://bit.ly/kazam-deb
 ```
 ```bash
-sudo dpkg -i kazam-deb
+sudo dpkg -i kazam.deb
 ```
 
 
