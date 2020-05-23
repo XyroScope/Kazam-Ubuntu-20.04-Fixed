@@ -13,7 +13,9 @@ wget -O kazam.deb https://bit.ly/kazam-deb
 ```bash
 sudo dpkg -i kazam.deb
 ```
-
+```bash
+sudo apt install -f
+```
 
 
 ## Uninstall Old Kazam
