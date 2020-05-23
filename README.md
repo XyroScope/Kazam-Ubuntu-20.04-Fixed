@@ -2,7 +2,7 @@
 Ubuntu 20.04 has a problem with showing Microphone Unknown.
 This problem can be solved by these commands.
 
-##### Note: Please uninstall the old files before you install the new ones
+##### Note: Please [Uninstall](README.md#uninstall-old-kazam)  the old files before you install the new ones
 
 
 ## Installation
